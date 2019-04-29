@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="11301fa1-2763-4218-8db7-470940f6f657" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="netcore-webapp" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+              <folding>
+                <marker date="1556517544838" expanded="true" signature="6:278" ph="..." />
+                <marker date="1556517544838" expanded="true" signature="304:1320" ph="{...}" />
+                <marker date="1556517544838" expanded="true" signature="331:1318" ph="{...}" />
+                <marker date="1556517544838" expanded="true" signature="346:561" ph="/* This method gets called by the runtime. Use this method to add services to the container. ... */" />
+                <marker date="1556517544838" expanded="true" signature="628:752" ph="{...}" />
+                <marker date="1556517544838" expanded="true" signature="940:1312" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/netcore-webapp.csproj">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="30" column="33" lean-forward="true" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Properties/launchSettings.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="25" column="49" lean-forward="true" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
+              <folding>
+                <marker date="1556517324381" expanded="false" signature="6:255" ph="..." />
+                <marker date="1556517324381" expanded="true" signature="281:609" ph="{...}" />
+                <marker date="1556517324381" expanded="true" signature="308:607" ph="{...}" />
+                <marker date="1556517324381" expanded="true" signature="361:435" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Models/MockPieRepository.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1556490543741" expanded="true" signature="6:76" ph="..." />
+                <marker date="1556490543741" expanded="true" signature="109:6090" ph="{...}" />
+                <marker date="1556490543741" expanded="true" signature="163:6088" ph="{...}" />
+                <marker date="1556490543741" expanded="true" signature="238:351" ph="{...}" />
+                <marker date="1556490543741" expanded="true" signature="279:341" ph="{...}" />
+                <marker date="1556490543741" expanded="true" signature="390:5866" ph="{...}" />
+                <marker date="1556490543741" expanded="true" signature="447:5855" ph="{...}" />
+                <marker date="1556490543741" expanded="true" signature="489:1773" ph="{...}" />
+                <marker date="1556490543741" expanded="true" signature="1815:3151" ph="{...}" />
+                <marker date="1556490543741" expanded="true" signature="3193:4516" ph="{...}" />
+                <marker date="1556490543741" expanded="true" signature="4558:5841" ph="{...}" />
+                <marker date="1556490543741" expanded="true" signature="5912:5958" ph="{...}" />
+                <marker date="1556490543741" expanded="true" signature="6001:6082" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Models/IPieRepository.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+              <folding>
+                <marker date="1556490353184" expanded="true" signature="6:57" ph="..." />
+                <marker date="1556490353184" expanded="true" signature="90:217" ph="{...}" />
+                <marker date="1556490353184" expanded="true" signature="128:215" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Controllers/HomeController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
+              <folding>
+                <marker date="1556512685206" expanded="true" signature="6:79" ph="..." />
+                <marker date="1556512685206" expanded="true" signature="150:762" ph="{...}" />
+                <marker date="1556512685206" expanded="true" signature="197:760" ph="{...}" />
+                <marker date="1556512685206" expanded="true" signature="320:384" ph="{...}" />
+                <marker date="1556512685206" expanded="true" signature="422:754" ph="{...}" />
+                <marker date="1556512685206" expanded="true" signature="584:690" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Views/Shared/_Layout.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+              <folding>
+                <marker date="1556515935020" expanded="true" signature="16:324" ph="&lt;html.../&gt;" />
+                <marker date="1556515935020" expanded="true" signature="23:200" ph="&lt;head.../&gt;" />
+                <marker date="1556515935020" expanded="true" signature="201:316" ph="&lt;body.../&gt;" />
+                <marker date="1556515935020" expanded="true" signature="208:306" ph="&lt;div.../&gt;" />
+                <marker date="1556515935020" expanded="true" signature="249:299" ph="&lt;div.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Views/Home/Index.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+              <folding>
+                <marker date="1556515000560" expanded="true" signature="72:458" ph="@..." />
+                <marker date="1556515000560" expanded="true" signature="104:458" ph="{...}" />
+                <marker date="1556515000560" expanded="true" signature="110:456" ph="&lt;div.../&gt;" />
+                <marker date="1556515000560" expanded="true" signature="158:446" ph="&lt;div.../&gt;" />
+                <marker date="1556515000560" expanded="true" signature="247:432" ph="&lt;div.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wwwroot/content/site.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>createdefault</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Views/Shared/_Layout.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Views/Home/Index.cshtml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Models/IPieRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ViewModels/HomeViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Models/MockPieRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Models/Pie.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Views/_ViewLayout.cshtml" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Models/IPieRepository.cs" />
+        <option value="$PROJECT_DIR$/Models/Pie.cs" />
+        <option value="$PROJECT_DIR$/Models/MockPieRepository.cs" />
+        <option value="$PROJECT_DIR$/Views/_ViewStart.cshtml.cs" />
+        <option value="$PROJECT_DIR$/Views/_ViewLayout.cshtml" />
+        <option value="$PROJECT_DIR$/ViewModels/HomeViewModel.cs" />
+        <option value="$PROJECT_DIR$/Controllers/HomeController.cs" />
+        <option value="$PROJECT_DIR$/Views/Home/Index.cshtml" />
+        <option value="$PROJECT_DIR$/Views/Shared/_Layout.cshtml" />
+        <option value="$PROJECT_DIR$/wwwroot/content/site.css" />
+        <option value="$PROJECT_DIR$/Program.cs" />
+        <option value="$PROJECT_DIR$/Startup.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="697" />
+    <option name="y" value="23" />
+    <option name="width" value="1216" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="FileSystemExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="netcore-webapp" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="netcore-webapp" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="netcore-webapp" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="Views" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="netcore-webapp" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="Views" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="Shared" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="netcore-webapp" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="wwwroot" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="netcore-webapp: netcore_webapp" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/netcore-webapp.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
+      <option name="LAUNCH_PROFILE_NAME" value="netcore_webapp" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="11301fa1-2763-4218-8db7-470940f6f657" name="Default Changelist" comment="" />
+      <created>1556478428423</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556478428423</updated>
+      <workItem from="1556478430959" duration="73000" />
+      <workItem from="1556488693028" duration="151000" />
+      <workItem from="1556489748598" duration="395000" />
+      <workItem from="1556490162796" duration="8898000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9517000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="697" y="23" width="1216" height="1057" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49948186" visible="true" weight="0.17291312" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" sideWeight="0.50051814" side_tool="true" weight="0.18037136" />
+      <window_info anchor="bottom" id="Build" order="0" weight="0.32953367" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49914822" visible="true" weight="0.32953367" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="NuGet" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="REST Client" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="14" weight="0.32953367" />
+      <window_info anchor="bottom" id="Event Log" order="15" sideWeight="0.5008518" side_tool="true" weight="0.32953367" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Models/Pie.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <marker date="1556490537972" expanded="true" signature="26:438" ph="{...}" />
+            <marker date="1556490537972" expanded="true" signature="49:436" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Models/MockPieRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1556490543741" expanded="true" signature="6:76" ph="..." />
+            <marker date="1556490543741" expanded="true" signature="109:6090" ph="{...}" />
+            <marker date="1556490543741" expanded="true" signature="163:6088" ph="{...}" />
+            <marker date="1556490543741" expanded="true" signature="238:351" ph="{...}" />
+            <marker date="1556490543741" expanded="true" signature="279:341" ph="{...}" />
+            <marker date="1556490543741" expanded="true" signature="390:5866" ph="{...}" />
+            <marker date="1556490543741" expanded="true" signature="447:5855" ph="{...}" />
+            <marker date="1556490543741" expanded="true" signature="489:1773" ph="{...}" />
+            <marker date="1556490543741" expanded="true" signature="1815:3151" ph="{...}" />
+            <marker date="1556490543741" expanded="true" signature="3193:4516" ph="{...}" />
+            <marker date="1556490543741" expanded="true" signature="4558:5841" ph="{...}" />
+            <marker date="1556490543741" expanded="true" signature="5912:5958" ph="{...}" />
+            <marker date="1556490543741" expanded="true" signature="6001:6082" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Views/_ViewStart.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Views/_ViewStart.cshtml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="52" lean-forward="true" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Models/IPieRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <marker date="1556490353184" expanded="true" signature="6:57" ph="..." />
+            <marker date="1556490353184" expanded="true" signature="90:217" ph="{...}" />
+            <marker date="1556490353184" expanded="true" signature="128:215" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Views/_ViewLayout.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+          <folding>
+            <marker date="1556511661829" expanded="true" signature="0:28" ph="@..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ViewModels/HomeViewModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+          <folding>
+            <marker date="1556512112324" expanded="true" signature="6:57" ph="..." />
+            <marker date="1556512112324" expanded="true" signature="94:227" ph="{...}" />
+            <marker date="1556512112324" expanded="true" signature="127:225" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <marker date="1556512685206" expanded="true" signature="6:79" ph="..." />
+            <marker date="1556512685206" expanded="true" signature="150:762" ph="{...}" />
+            <marker date="1556512685206" expanded="true" signature="197:760" ph="{...}" />
+            <marker date="1556512685206" expanded="true" signature="320:384" ph="{...}" />
+            <marker date="1556512685206" expanded="true" signature="422:754" ph="{...}" />
+            <marker date="1556512685206" expanded="true" signature="584:690" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wwwroot/images/pattern.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wwwroot/content/site.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Views/Shared/_Layout.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+          <folding>
+            <marker date="1556515935020" expanded="true" signature="16:324" ph="&lt;html.../&gt;" />
+            <marker date="1556515935020" expanded="true" signature="23:200" ph="&lt;head.../&gt;" />
+            <marker date="1556515935020" expanded="true" signature="201:316" ph="&lt;body.../&gt;" />
+            <marker date="1556515935020" expanded="true" signature="208:306" ph="&lt;div.../&gt;" />
+            <marker date="1556515935020" expanded="true" signature="249:299" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Views/Home/Index.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="43" selection-start-line="7" selection-start-column="43" selection-end-line="7" selection-end-column="43" />
+          <folding>
+            <marker date="1556515000560" expanded="true" signature="72:458" ph="@..." />
+            <marker date="1556515000560" expanded="true" signature="104:458" ph="{...}" />
+            <marker date="1556515000560" expanded="true" signature="110:456" ph="&lt;div.../&gt;" />
+            <marker date="1556515000560" expanded="true" signature="158:446" ph="&lt;div.../&gt;" />
+            <marker date="1556515000560" expanded="true" signature="247:432" ph="&lt;div.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="25" column="49" lean-forward="true" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
+          <folding>
+            <marker date="1556517324381" expanded="false" signature="6:255" ph="..." />
+            <marker date="1556517324381" expanded="true" signature="281:609" ph="{...}" />
+            <marker date="1556517324381" expanded="true" signature="308:607" ph="{...}" />
+            <marker date="1556517324381" expanded="true" signature="361:435" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="25" selection-start-line="29" selection-start-column="25" selection-end-line="29" selection-end-column="25" />
+          <folding>
+            <marker date="1556517544838" expanded="true" signature="6:278" ph="..." />
+            <marker date="1556517544838" expanded="true" signature="304:1320" ph="{...}" />
+            <marker date="1556517544838" expanded="true" signature="331:1318" ph="{...}" />
+            <marker date="1556517544838" expanded="true" signature="346:561" ph="/* This method gets called by the runtime. Use this method to add services to the container. ... */" />
+            <marker date="1556517544838" expanded="true" signature="628:752" ph="{...}" />
+            <marker date="1556517544838" expanded="true" signature="940:1312" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/netcore-webapp.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="33" lean-forward="true" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Properties/launchSettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="38" selection-end-line="5" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

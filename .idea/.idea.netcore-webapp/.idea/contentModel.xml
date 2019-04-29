@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeRecursive">
+      <e p=".vs" t="Include">
+        <e p="netcore-webapp" t="Include">
+          <e p="xs" t="Include">
+            <e p="sqlite3" t="Include">
+              <e p="db.lock" t="Include" />
+              <e p="storage.ide" t="Include" />
+              <e p="storage.ide-shm" t="Include" />
+              <e p="storage.ide-wal" t="Include" />
+            </e>
+            <e p="UserPrefs.xml" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="appsettings.Development.json" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="Controllers" t="Include">
+        <e p="HomeController.cs" t="Include" />
+      </e>
+      <e p="Models" t="Include">
+        <e p="IPieRepository.cs" t="Include" />
+        <e p="MockPieRepository.cs" t="Include" />
+        <e p="Pie.cs" t="Include" />
+      </e>
+      <e p="netcore-webapp.csproj" t="IncludeRecursive" />
+      <e p="obj" t="ExcludeRecursive">
+        <e p="Debug" t="Include">
+          <e p="netcoreapp2.2" t="Include">
+            <e p="netcore-webapp.AssemblyInfo.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="launchSettings.json" t="Include" />
+      </e>
+      <e p="Startup.cs" t="Include" />
+      <e p="ViewModels" t="Include">
+        <e p="HomeViewModel.cs" t="Include" />
+      </e>
+      <e p="Views" t="Include">
+        <e p="_ViewLayout.cshtml" t="Include" />
+        <e p="Home" t="Include">
+          <e p="Index.cshtml" t="Include" />
+        </e>
+        <e p="Shared" t="Include">
+          <e p="_Layout.cshtml" t="Include" />
+        </e>
+      </e>
+      <e p="wwwroot" t="Include">
+        <e p="content" t="Include">
+          <e p="site.css" t="Include" />
+        </e>
+        <e p="images" t="Include">
+          <e p="pattern.png" t="Include" />
+        </e>
+        <e p="lib" t="Include">
+          <e p="bootstrap" t="Include">
+            <e p="css" t="Include">
+              <e p="bootstrap-grid.css" t="Include" />
+              <e p="bootstrap-grid.css.map" t="Include" />
+              <e p="bootstrap-grid.min.css" t="Include" />
+              <e p="bootstrap-grid.min.css.map" t="Include" />
+              <e p="bootstrap-reboot.css" t="Include" />
+              <e p="bootstrap-reboot.css.map" t="Include" />
+              <e p="bootstrap-reboot.min.css" t="Include" />
+              <e p="bootstrap-reboot.min.css.map" t="Include" />
+              <e p="bootstrap.css" t="Include" />
+              <e p="bootstrap.css.map" t="Include" />
+              <e p="bootstrap.min.css" t="Include" />
+              <e p="bootstrap.min.css.map" t="Include" />
+            </e>
+            <e p="js" t="Include">
+              <e p="bootstrap.bundle.js" t="Include" />
+              <e p="bootstrap.bundle.js.map" t="Include" />
+              <e p="bootstrap.bundle.min.js" t="Include" />
+              <e p="bootstrap.bundle.min.js.map" t="Include" />
+              <e p="bootstrap.js" t="Include" />
+              <e p="bootstrap.js.map" t="Include" />
+              <e p="bootstrap.min.js" t="Include" />
+              <e p="bootstrap.min.js.map" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2018.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.3/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_netcore-webapp.426923332.00" t="ExcludeRecursive" />
+  </component>
+</project>
