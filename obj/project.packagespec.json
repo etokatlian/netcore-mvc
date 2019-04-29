@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "/Users/erictokatlian/Dev/netcore-webapp/netcore-webapp.csproj",
+    "projectUniqueName": "/Users/erictokatlian/Dev/netcore-mvc/netcore-webapp.csproj",
     "projectName": "netcore-webapp",
-    "projectPath": "/Users/erictokatlian/Dev/netcore-webapp/netcore-webapp.csproj",
-    "outputPath": "/Users/erictokatlian/Dev/netcore-webapp/obj/",
+    "projectPath": "/Users/erictokatlian/Dev/netcore-mvc/netcore-webapp.csproj",
+    "outputPath": "/Users/erictokatlian/Dev/netcore-mvc/obj/",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

@@ -2,19 +2,6 @@
 <project version="4">
   <component name="ContentModelStore">
     <e p="$PROJECT_DIR$" t="IncludeRecursive">
-      <e p=".vs" t="Include">
-        <e p="netcore-webapp" t="Include">
-          <e p="xs" t="Include">
-            <e p="sqlite3" t="Include">
-              <e p="db.lock" t="Include" />
-              <e p="storage.ide" t="Include" />
-              <e p="storage.ide-shm" t="Include" />
-              <e p="storage.ide-wal" t="Include" />
-            </e>
-            <e p="UserPrefs.xml" t="Include" />
-          </e>
-        </e>
-      </e>
       <e p="appsettings.Development.json" t="Include" />
       <e p="bin" t="ExcludeRecursive" />
       <e p="Controllers" t="Include">
@@ -26,6 +13,7 @@
         <e p="Pie.cs" t="Include" />
       </e>
       <e p="netcore-webapp.csproj" t="IncludeRecursive" />
+      <e p="netcore-webapp.sln" t="IncludeFlat" />
       <e p="obj" t="ExcludeRecursive">
         <e p="Debug" t="Include">
           <e p="netcoreapp2.2" t="Include">
@@ -43,7 +31,7 @@
         <e p="HomeViewModel.cs" t="Include" />
       </e>
       <e p="Views" t="Include">
-        <e p="_ViewLayout.cshtml" t="Include" />
+        <e p="_ViewStart.cshtml" t="Include" />
         <e p="Home" t="Include">
           <e p="Index.cshtml" t="Include" />
         </e>
@@ -89,6 +77,6 @@
       </e>
     </e>
     <e p="$USER_HOME$/Library/Caches/Rider2018.3/extResources" t="IncludeRecursive" />
-    <e p="$USER_HOME$/Library/Caches/Rider2018.3/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_netcore-webapp.426923332.00" t="ExcludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.3/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_netcore-webapp.215159569.00" t="ExcludeRecursive" />
   </component>
 </project>
