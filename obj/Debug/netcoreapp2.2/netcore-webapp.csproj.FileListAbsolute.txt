@@ -22,7 +22,6 @@
 /Users/erictokatlian/Dev/netcore-webapp/obj/Debug/netcoreapp2.2/netcore-webapp.pdb
 /Users/erictokatlian/Dev/netcore-webapp/obj/Debug/netcoreapp2.2/netcore-webapp.csproj.CopyComplete
 /Users/erictokatlian/Dev/netcore-webapp/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
-/Users/erictokatlian/Dev/netcore-webapp/obj/Debug/netcoreapp2.2/Razor/Views/_ViewLayout.g.cshtml.cs
 /Users/erictokatlian/Dev/netcore-mvc/bin/Debug/netcoreapp2.2/netcore-webapp.deps.json
 /Users/erictokatlian/Dev/netcore-mvc/bin/Debug/netcoreapp2.2/netcore-webapp.runtimeconfig.json
 /Users/erictokatlian/Dev/netcore-mvc/bin/Debug/netcoreapp2.2/netcore-webapp.runtimeconfig.dev.json
@@ -48,3 +47,4 @@
 /Users/erictokatlian/Dev/netcore-mvc/obj/Debug/netcoreapp2.2/netcore-webapp.pdb
 /Users/erictokatlian/Dev/netcore-mvc/obj/Debug/netcoreapp2.2/netcore-webapp.csproj.CopyComplete
 /Users/erictokatlian/Dev/netcore-mvc/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/erictokatlian/Dev/netcore-webapp/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
